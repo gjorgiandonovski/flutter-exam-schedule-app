@@ -73,17 +73,6 @@ Home Screen	Exam Details
 📹 Video Demonstration
 🎥 Click here to watch the video demo
 
-🧠 Technologies Used
-Flutter SDK (Dart)
-
-Material Design widgets
-
-Stateless and Stateful widgets
-
-ListView, Card, Icons, and Navigator API
-
-iOS-inspired minimalist visual design
-
-🏁 Conclusion
-This project demonstrates the complete process of developing a mobile application using Flutter — from UI design and folder organization to functionality and interactivity.
+Conclusion
+This project demonstrates the complete process of developing a mobile application using Flutter from UI design and folder organization to functionality and interactivity.
 The application is simple, visually clear, and fully aligned with the course requirements for Mobile Information Systems at FINKI.
