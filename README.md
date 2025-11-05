@@ -70,14 +70,8 @@ Tap on any exam to open its detailed view.
 
 Exams are visually categorized based on their status (Passed, Soon, Upcoming).
 
+## Screeenshots
+
 | Home Screen |  Exam Details |
 |----------------|----------------|
 | <img src="screenshots/exam_list.png" alt="Exam List Screen" width="380" height="800"/> | <img src="screenshots/exam_detail.png" alt="Exam Detail Screen" width="380" height="800"/> |
-
----
-
-
-## Conclusion
-
-This project demonstrates the complete process of developing a mobile application using Flutter from UI design and folder organization to functionality and interactivity.
-The application is simple, visually clear, and fully aligned with the course requirements for Mobile Information Systems at FINKI.
