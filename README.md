@@ -67,14 +67,10 @@ Tap on any exam to open its detailed view.
 
 Exams are visually categorized based on their status (Passed, Soon, Upcoming).
 
-🖼️ Screenshots
-| 🏠 Home Screen | 📄 Exam Details |
+Screenshots
 |----------------|----------------|
-| <img src="screenshots/exam_list.png" alt="Exam List Screen" width="380"/> | <img src="screenshots/exam_detail.png" alt="Exam Detail Screen" width="380"/> |
+| <img src="screenshots/exam_list.png" alt="Exam List Screen" width="380" height="800"/> | <img src="screenshots/exam_detail.png" alt="Exam Detail Screen" width="380" height="800"/> |
 
-
-📹 Video Demonstration
-🎥 Click here to watch the video demo
 
 Conclusion
 This project demonstrates the complete process of developing a mobile application using Flutter from UI design and folder organization to functionality and interactivity.
