@@ -68,7 +68,10 @@ Tap on any exam to open its detailed view.
 Exams are visually categorized based on their status (Passed, Soon, Upcoming).
 
 🖼️ Screenshots
-Home Screen	Exam Details
+| 🏠 Home Screen | 📄 Exam Details |
+|----------------|----------------|
+| <img src="screenshots/exam_list.png" alt="Exam List Screen" width="380"/> | <img src="screenshots/exam_detail.png" alt="Exam Detail Screen" width="380"/> |
+
 
 📹 Video Demonstration
 🎥 Click here to watch the video demo
