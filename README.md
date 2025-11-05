@@ -36,15 +36,7 @@ It was developed as part of the *Mobile Information Systems* course to demonstra
 ---
 
 ## 🏗️ Project Structure
-lib/
-├─ main.dart
-├─ models/
-│ └─ exam.dart
-├─ screens/
-│ ├─ exam_list_screen.dart
-│ └─ exam_detail_screen.dart
-└─ widgets/
-└─ exam_card.dart
+<pre> ```text lib/ ├─ main.dart ├─ models/ │ └─ exam.dart ├─ screens/ │ ├─ exam_list_screen.dart │ └─ exam_detail_screen.dart └─ widgets/ └─ exam_card.dart ``` </pre>
 
 
 
