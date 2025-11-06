@@ -135,7 +135,7 @@ class ExamListScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Распоред за испити - 213040"),
+        title: const Text("Распоред за испити - 231180"),
         centerTitle: true,
       ),
       body: ListView.builder(
