@@ -3,9 +3,6 @@
 
 ### 👨‍💻 Author
 **Gjorgi Andonovski**  
-Index Number: **231180**  
-Faculty of Computer Science and Engineering – FINKI  
-Course: **Mobile Information Systems**
 
 ---
 
